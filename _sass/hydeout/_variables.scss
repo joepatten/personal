@@ -6,7 +6,8 @@ $gray-5: #515151 !default;
 $gray-6: #313131 !default;
 
 //color for message and code
-$gray-code: #D1D1D1 !default;
+//$gray-code: #D1D1D1 !default;
+$gray-code: #125 !default;
 
 $red: #ac4142 !default;
 $orange: #d28445 !default;
@@ -15,7 +16,7 @@ $green: #90a959 !default;
 $cyan: #75b5aa !default;
 $blue: #268bd2 !default;
 $brown: #8f5536 !default;
-$gold: #CA3 !default;
+$gold: #CA4 !default;
 
 $root-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif !default;
 $root-font-size: 1rem !default;
@@ -50,11 +51,12 @@ $code-color: #bf616a !default;
 
 // Hyde theming
 
-// $sidebar-bg-color: #202020 !default;
-$sidebar-bg-color: #07153e !default;
+$sidebar-bg-color: #125 !default;
 $sidebar-title-color: #ffffff !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
 $bg-color: #F7F7F7 !default;
 
 $sidebar-bg: "../../assets/img/sidebar-bg2.jpg" !default;
+$sidebar-body-color: $gray-4 !default;
+$active-link-color: #FFF !default;

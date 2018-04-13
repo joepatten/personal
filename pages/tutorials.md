@@ -20,6 +20,20 @@ def printer(x):
 	print(x) 
 ```
 
+```tex
+%latex code
+$x=4$
+```
+
+```latex
+$x=4$
+```
+\\( sin(x^2) \\)
+
+and here
+
+$$sin(x^2)$$
+
 {% highlight python linenos%}
 #Python code
 def printer(x):

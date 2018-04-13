@@ -24,7 +24,7 @@
 
 body {
   /* edit text in sidebar that aren't links */
-  color: #ADADADFF;
+  color: $sidebar-body-color;
   background-color: $sidebar-bg-color;
   /*change sidebar image*/
   background-image: url($sidebar-bg); 
@@ -69,7 +69,7 @@ body {
 // Container is flexbox as well -- we want content div to stretch and fill
 .container {
   flex: 1 1 auto;
-  display: flex;
+  //display: flex;
   flex-direction: column;
 
   > .content {
@@ -79,7 +79,7 @@ body {
 
 .content {
 //make content background transparent
-  //background: $body-bg;
+  background: $body-bg;
   color: $body-color;
   padding: $section-spacing;
 }
@@ -126,7 +126,7 @@ body {
 
   // Bigger title
   .site-title {
-    font-size: 3.25rem;
+    font-size: 3rem;
     color: $sidebar-title-color;
   }
 
@@ -175,7 +175,7 @@ body {
   #sidebar {
     /*sidebar title*/
     .site-title {
-      font-size: 3.25rem;
+      font-size: 3rem;
 
       a { color: $sidebar-title-color; }
       .back-arrow { display: none; }
@@ -183,6 +183,7 @@ body {
 
     p.lead, header ~ * {
       display: block;
+      font-size: 1.2rem;
     }
 
     header ~ nav {
@@ -255,7 +256,7 @@ body {
   /* active link */
   &.active {
     font-weight: bold;
-    color: #FFF;
+    color: $active-link-color;
   }
 }
 
