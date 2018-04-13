@@ -59,7 +59,7 @@ body {
 
     a:hover {
       color: inherit;
-      &:hover { color: #CA3; }
+      &:hover { color: $gold; }
     }
 
     .back-arrow { margin-right: 0.5rem; }
@@ -78,7 +78,8 @@ body {
 }
 
 .content {
-  background: $body-bg;
+//make content background transparent
+  //background: $body-bg;
   color: $body-color;
   padding: $section-spacing;
 }
@@ -192,8 +193,14 @@ body {
   .index #sidebar { margin-bottom: 0; }
 
   // Make entire container background white to contrast against sidebar
+
   .container {
-    background: $body-bg;
+  //MAKE the background gradient!
+    background-image: linear-gradient(
+    to top,
+    lighten($bg-color, 5%),
+    darken($bg-color, 10%)); 
+    //background: $body-bg;
     color: $body-color;
     padding: $section-spacing * 2;
     height: 100vh;
@@ -223,25 +230,25 @@ body {
 ----------------------------------------------------------- */
 
 #sidebar a {
-  /*change the color of the linkes on sidebar*/
+  /*change the color of the links on sidebar*/
   color: #DDD;
   
   /*chnage color of icon links (github,twitter,etc)*/
   svg {
-    fill: #CA3/*rgba(255, 255, 255, 0.85)*/;
+    fill: $gold;
   }
 
   /*hover over icon color*/
   &:hover, &:focus, &.active {
-    svg { fill: #DC8; }
+    svg { fill:               lighten($gold, 15%)             ; }
   }
 
   &:hover, &:focus {
-    color: #CA3;
+    color: $gold;
     text-decoration: none;
     &.icon {
       text-decoration: underline;
-      color: #CA3;
+      color: $gold;
     }
   }
 

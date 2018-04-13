@@ -19,3 +19,21 @@ matter.
 def printer(x):
 	print(x) 
 ```
+
+{% highlight python linenos%}
+#Python code
+def printer(x):
+	print(x) 
+
+def printer(x):
+	print(x) 
+
+def printer(x):
+	print(x) 
+
+def printer(x):
+	print(x) 
+
+def printer(x):
+	print(x) 
+{% endhighlight %}
