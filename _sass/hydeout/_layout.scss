@@ -79,7 +79,7 @@ body {
 
 .content {
 //make content background transparent
-  background: $body-bg;
+  //background: $body-bg;
   color: $body-color;
   padding: $section-spacing;
 }
@@ -183,7 +183,7 @@ body {
 
     p.lead, header ~ * {
       display: block;
-      font-size: 1.2rem;
+      font-size: 1.1rem;
     }
 
     header ~ nav {
@@ -256,7 +256,7 @@ body {
   /* active link */
   &.active {
     font-weight: bold;
-    color: $active-link-color;
+    color: #FFF;
   }
 }
 

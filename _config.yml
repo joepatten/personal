@@ -5,9 +5,9 @@ highlighter:      rouge
 # Setup
 title:            'Joe Patten'
 #to change the title font go to _includes/font-includes.html
-tagline:          'A Jekyll theme'
+tagline:          'Economist'
 description:      'Economics PhD Student'
-url:              https://fongandrew.github.io/hydeout
+url:              https://joepatten.github.io
 baseurl:          "/personal" # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -29,17 +29,17 @@ plugins:
 
 #for git:
 #(git init)
-#(git checkout -b gh-pages)
+#git checkout -b gh-pages
 #git status
 #git add .
 #git commit -m "comment"
-#(git remote add origin https://github.com/soccerjoe/test3.git)
+#git remote add origin https://github.com/soccerjoe/test3.git
 #git push origin gh-page
 #git push origin HEAD:gh-pages
 
 # Custom vars
 version:            3.6.0
-sidebar_home_link:  true
+sidebar_home_link:  false
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
