@@ -14,15 +14,34 @@ order: 6
 To make pages show up in the sidebar, add `sidebar_link: true` to the front
 matter.
 
+## Python Resources
+- my-tutorial
+- [quant-econ](https://lectures.quantecon.org/py/)
+- [Python Documentation](https://docs.python.org/3/)
+
 ```python
 #Python code
-def printer(x):
-	print(x) 
+def mutiply(x,y):
+  return(x*y)
+#=>
 ```
+
+## R Resources
+- my-tutorial
+- [swirl](http://swirlstats.com/)
+- [R Documentation](https://www.r-project.org/other-docs.html)
+
+## Latex Resources
+- my-tutorial
+- [Latex Wikibooks](https://en.wikibooks.org/wiki/LaTeX)
+- [Latex Documentation](https://www.latex-project.org/help/documentation/)
 
 ```tex
 %latex code
-$x=4$
+\begin{align}
+  x &=5;
+  y &=4;
+\end{align}
 ```
 
 ```latex

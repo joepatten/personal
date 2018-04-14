@@ -25,7 +25,7 @@ pre code {
   padding: 0;
   font-size: 100%;
   //color: inherit;
-  color: #BBB;
+  color: #333;
   background-color: transparent;
 }
 
@@ -40,7 +40,8 @@ pre code {
   margin-bottom: 1rem;
   font-size: .8rem;
   line-height: 1.4;
-  background-color: $gray-code;
+  background-color: $gray-2;
+  //background-color: $gray-code;
   //border: 1px solid red;
   border-radius: .25rem;
 
