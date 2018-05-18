@@ -2,7 +2,6 @@
 layout: page
 title: Math Bootcamp
 sidebar_link: false
-permalink: /teaching/math_bootcamp/syllabus
 ---
 
 # Economics PhD Mathematics Bootcamp
