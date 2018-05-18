@@ -29,12 +29,13 @@ plugins:
 
 #for git:
 #(git init)
-#git checkout -b gh-pages
+#(git checkout -b gh-pages)
 #git status
 #git add .
 #git commit -m "comment"
+##git remote -v             #see all origins
 #git remote add origin https://github.com/soccerjoe/test3.git
-#git push origin gh-page
+#git push origin gh-pages      #NOT underscore
 #git push origin HEAD:gh-pages
 
 # Custom vars

@@ -6,6 +6,10 @@ permalink: /teaching/math_bootcamp
 ---
 <!--make new sidebar with reading, syllabus, etc-->
 
+### Syllabus 
+
+[Click here for syllabus]({{ site.baseurl }}/teaching/math_bootcamp/syllabus)
+
 <a name="read"></a>
 
 ### Readings
