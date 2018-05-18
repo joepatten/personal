@@ -12,42 +12,58 @@ permalink: /teaching/math_bootcamp
 
 <a name="read"></a>
 
-### Readings
+### Course Outline
 
-<table class="table table-striped">
-<thead>
-    <tr>
-        <th>Week</th>
-        <th>Notes</th>
-        <th>Simon & Blume</th>
-    </tr>
-</thead>
-{% for reading in site.data.math_bootcamp.readings %}
-<tr>
-    <td>{{ reading.name }}</td>
-    <td>
-    {% for note in reading.notes %}
-        <a class="btn btn-default" href="{{page.assets}}{{note.link}}">
-        <i class="fa fa-download"></i>&nbsp; {{note.name}}</a>
-    {% endfor %}
-    {% if reading.ext_links %}
-    <br/><b>External Resources</b>
-        <ul>
-        {% for link in reading.ext_links %}
-            <li><a href="{{link.link}}">{{link.link}}</a></li>
-        {% endfor %}
-        </ul>
-    {% endif %}
-    </td>
-    <td>{{reading.simonblume}}</td>
-</tr>
-{% endfor %}
-</table>
+Below I have provided a *tentative schedule*. Dates as well as topics are subject to change depending on the pace of the course, as well as what I think should be covered. Also, I will be introducing programming (specifically using Python) on August 9th. That day will be optional, although I strongly recommend you attend. 
+
+#### Before coming to mathcamp:
+
+| Date  | Topics | Readings | Assignments |
+| :--- | :---   | :--- | :--- |
+| Prereqs | Univariate Calculus & Logic | S&B 2-5; Provided notes | Prerequisite assignment to be completed early in the course.|
+
+#### Week 1 (July 23-July 27)
+
+| Date  | Topics | Readings | Assignments |
+| :--- | :---   | :--- | :--- |
+| 23 | Linear Systems and Matrix Algebra | S&B 6-9; Notes |  |
+| 24 | Linear Systems and Matrix Algebra | S&B 6-9; Notes |  |
+| 25 | Linear Spaces | S&B 10, 11 | |
+| 26 | Linear Spaces and Set Theory | S&B 10, 11; Provided Notes |  |
+| 27 | Weekly Review |  | **Assignment 1 due** |
+
+#### Week 2 (July 30-August 3)
+
+| Date  | Topics | Readings | Assignments |
+| :--- | :---   | :--- | :--- |
+| 30 | Set Theory | S&B 10, 11; Provided Notes |  |
+| 31 | Proofs and Real Analysis | S&B 12; Appendix A1; Provided Notes |  |
+| 1 | Proofs and Real Analysis | S&B 12; Appendix A1; Provided Notes |  |
+| 2 | Proofs and Multivariate Calculus | S&B 13-15, 30 |  |
+| 3 | Weekly Review |  | **Assignment 2 due** |
+
+#### Week 3 (August 6-August 10)
+
+| Date  | Topics | Readings | Assignments |
+| :--- | :---   | :--- | :--- |
+| 6 | Multivariate Calculus | S&B 13-15, 30 |  |
+| 7 | Multivariate Calculus | S&B 13-15, 30 |  |
+| 8 | Miscellaneous Topics | TBA |  |
+| 9 | Introduction to Programming | Optional |  |
+| 10 | Weekly Review |  | **Assignment 3 due** |
+
+#### Week 4 (August 15)
+
+| 15 | Final Exam | No Notes | **On Campus August 15** |
+
+*S&B ~ Simon & Blume text*
 
 
 <a name="assign"></a>
 
 ### Assignments
+
+Assignments will be posted here at the beginning of the week. I will also post solutions.
 
 <table class="table table-striped">
 {% for assignment in site.data.math_bootcamp.assignments %}

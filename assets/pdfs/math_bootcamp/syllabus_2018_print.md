@@ -24,6 +24,20 @@ This course serves as a refresher for linear algebra, univariate calculus, and m
 
 ---
 
+
+
+
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 #### Course Learning Goals
 
 **At the end of this course, students should be able to**:
@@ -50,6 +64,12 @@ The following are some recommended textbooks.  The primary book used for this co
 - Michael Hoy, John Livernois, Chris McKenna, Ray Rees and Thanasis Stengos. [**Mathematics for Economics**][3]. MIT Press 2011.
 - Dean Corbae, Maxwell B. Stinchcombe. [**An Introduction to Mathematical Analysis for Economic Theory and Econometrics**][8]. Princeton University Press, 2009.
 - Efe A. Ok. [**Real Analysis with Economic Applications**][9]. Princeton University Press, 2007.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 **Mathematical Proof**
 
@@ -95,6 +115,9 @@ It is WSU policy that for every hour of faculty directed activities, students sh
 
 In this course, there will be no official "faculty directed time" and the workload will in all honesty be substantial for all individuals that have not had a significant amount of prior mathematics education.
 
+&nbsp;
+
+
 #### Assignments
 
 An assignment will be posted on the course website.  Due dates are given below.  <font color="red">**The assignments should be submitted to my box or my email by 11:59 pm Pacific Standard Time on the due date**</font>.  Note that if you are going to turn your assignment into my box, do so before 5:00 pm as the office will lock the room that has the boxes at that time.  Each assignment will be worth 20/100 points.  The assignments will be problem sets that give the students practice applying the mathematical tools covered in the course texts.
@@ -115,6 +138,10 @@ For those using LaTeX I will provide assignment templates for you to use.
 There will be one exam at the end of the course and it is worth 40/100 points.  The exam will cover all the material covered in the course.  The exam will be proctored on campus in Hulbert Hall on *Wednesday August 15, 2017*.
 
 ---
+
+&nbsp;
+
+&nbsp;
 
 ### Course Outline
 
@@ -156,6 +183,8 @@ Below I have provided a *tentative schedule*. Dates as well as topics are subjec
 | 9 | Introduction to Programming | Optional |  |
 | 10 | Weekly Review |  | **Assignment 3 due** |
 
+&nbsp;
+
 #### Week 4 (August 15)
 
 | 15 | Final Exam | No Notes | **On Campus August 15** |
@@ -177,6 +206,10 @@ Students with Disabilities: Reasonable accommodations are available for students
 ### WSU Academic Integrity Statement
 
 As an institution of higher education, Washington State University is committed to principles of truth and academic honesty. All members of the University community share the responsibility for maintaining and supporting these principles. When a student enrolls in Washington State University, the student assumes an obligation to pursue academic endeavors in a manner consistent with the standards of academic integrity adopted by the University. To maintain the academic integrity of the community, the University cannot tolerate acts of academic dishonesty including any forms of cheating, plagiarism, or fabrication. Washington State University reserves the right and the power to discipline or to exclude students who engage in academic dishonesty. Students found responsible for academic integrity violations may receive an F on the particular assignment or exam, as well as an F for the course.  Serious and/or repeated offenses may result in referral to the Office of Student Standards and Accountability and expulsion from WSU. Cheating is defined in the Standards for Student Conduct WAC 504-26-010 (3).
+
+&nbsp;
+
+&nbsp;
 
 You can learn more about Academic Integrity on your campus using the URL listed in the Academic Regulations section or to [http://academicintegrity.wsu.edu](http://academicintegrity.wsu.edu/) . Please use these resources to ensure that you don’t inadvertently violate WSU's standard of conduct. It is strongly suggested that every student read and understand these definitions.
 
