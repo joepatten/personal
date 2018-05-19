@@ -3,4 +3,5 @@ layout: page
 title: Home
 ---
 
-Click [here]({{ site.baseurl }}/teaching/math_bootcamp) to get to the Math Bootcamp page.
+This site is currently under construction. Click [here]({{ site.baseurl }}/teaching/math_bootcamp) to get to the Math Bootcamp page.
+

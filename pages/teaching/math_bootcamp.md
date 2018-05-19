@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Math Bootcamp
+title: PhD Math Bootcamp
 sidebar_link: false
 permalink: /teaching/math_bootcamp
 ---
@@ -14,7 +14,7 @@ permalink: /teaching/math_bootcamp
 
 ### Course Outline
 
-Below I have provided a *tentative schedule*. Dates as well as topics are subject to change depending on the pace of the course, as well as what I think should be covered. Also, I will be introducing programming (specifically using Python) on August 9th. That day will be optional, although I strongly recommend you attend. 
+Below I have provided a *tentative* schedule. Dates as well as topics are subject to change depending on the pace of the course, as well as what I think should be covered. Also, I will be introducing programming (specifically using Python) on August 9th. That day will be optional, although I strongly recommend you attend. 
 
 #### Before coming to mathcamp:
 
